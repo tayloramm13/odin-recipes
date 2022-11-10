@@ -10,3 +10,4 @@ a basic recipe that should demonstrate the following skills:
 - create an additional relative link on the page to future recipes
 - properly head the html file
 - have elements within the recipe that need to be emphasized and/or bolded
+- get comfortable making necessary git commits and understanding how that translates to github
